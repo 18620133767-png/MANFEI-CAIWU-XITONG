@@ -1,0 +1,7 @@
+{
+  "name": "漫飞工作室报销申请",
+  "description": "漫飞工作室内部财务报销系统，支持AI发票识别与多维度统计看板。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
